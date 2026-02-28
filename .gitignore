@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+
+# Static libraries
+*.a
+
+# XFOIL binaries (built in bin/)
+bin/xfoil
+bin/pplot
+bin/pxplot
+
+# Generated plot files
+*.ps
+plot*.ps
+
+# Editor backups
+*~
+*.swp
+*.bak
+
+# OS-specific
+.DS_Store
+Thumbs.db
