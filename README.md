@@ -1,5 +1,5 @@
 # XFOIL 6.97 for Linux
-
+Note: this is no longer maintained.
 A ready-to-build Linux port of **XFOIL**, the subsonic airfoil analysis and design tool originally developed by **Mark Drela** and **Harold Youngren** at MIT.
 
 XFOIL is an interactive program for the design and analysis of subsonic isolated airfoils. It provides:
